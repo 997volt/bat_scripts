@@ -2,7 +2,7 @@
 rem create github repo same as Project_name
 
 set workspace_dir=C:\Users\user\STM32CubeIDE\workspace_1.4.0
-set project_name=stm32_bluepill_template
+set project_name=hello_cmake
 set project_url=https://github.com/997volt/%project_name%.git
 set commit_message="initial commit"
 
